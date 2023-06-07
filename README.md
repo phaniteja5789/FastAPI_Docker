@@ -28,4 +28,4 @@ Developed an API using FastAPI that gets the data and stores the data in MongoDB
   
   The Data stored in MongoDB
   
-    <img width="958" alt="image" src="https://github.com/phaniteja5789/FastAPI_Docker/assets/36558484/4c2aebff-5a2f-4c70-b2af-4cdba3e7498b">
+<img width="958" alt="image" src="https://github.com/phaniteja5789/FastAPI_Docker/assets/36558484/d32bc712-a8a3-4189-b469-b913e8780cdc">
